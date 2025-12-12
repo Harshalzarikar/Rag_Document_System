@@ -1,0 +1,32 @@
+
+        AI/ML Engineer Resume
+        
+        Name: John Doe
+        Email: john.doe@email.com
+        Phone: (555) 123-4567
+        
+        Education:
+        - B.S. Computer Science, MIT (2020)
+        - M.S. Artificial Intelligence, Stanford (2022)
+        
+        Experience:
+        - Senior ML Engineer at TechCorp (2022-Present)
+          * Developed production RAG systems
+          * Implemented LLM applications with 100M+ users
+          * Reduced inference costs by 40%
+        
+        - Data Scientist at DataCo (2020-2022)
+          * Built predictive models for customer behavior
+          * Improved accuracy by 25%
+        
+        Skills:
+        - Programming: Python, SQL, JavaScript
+        - ML/AI: PyTorch, TensorFlow, Scikit-learn, LlamaIndex
+        - Cloud: AWS, GCP, Azure
+        - Databases: PostgreSQL, MongoDB, Redis
+        
+        Projects:
+        - RAG Chat System: Built enterprise document Q&A system
+        - Recommendation Engine: Increased user engagement by 35%
+        - Fraud Detection: Reduced false positives by 30%
+        

@@ -30,9 +30,9 @@ This project is a production-ready Retrieval-Augmented Generation (RAG) system w
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Harshalzarikar/Rag_Document_System.git
    cd your-repository
-   ```
+   ``
 
 2. **Set up the backend:**
 
